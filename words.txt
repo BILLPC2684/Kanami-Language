@@ -397,4 +397,6 @@ ShiNa  |VIP
 PeKa   |title
 DeKa   |sun
 DePa   |moon
-BaShiKu|Dynamic
+BaShiKu|dynamic
+BaSho  |word
+BaShu  |words
