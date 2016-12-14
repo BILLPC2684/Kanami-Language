@@ -400,3 +400,5 @@ DePa   |moon
 BaShiKu|dynamic
 BaSho  |word
 BaShu  |words
+PhaKo  |spice
+PhaKu  |spices
