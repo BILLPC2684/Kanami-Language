@@ -266,7 +266,7 @@ GaBa   |warning
 GaDa   |translation
 BaGe   |undo
 BaGa   |redo
-BaKa   |copy
+BaKa   |copy,clone,duplicate
 BaKi   |paste
 SiBa   |code
 SeKa   |random
@@ -286,7 +286,7 @@ KeMaRe |creative
 KeMaRa |Spectator
 KeMaRo |adventure
 KeMaRu |HARDCORE adventure
-BuRo   |fool,stupid
+BuRo   |fool,stupid,idiot
 BuRu   |dummy
 BaKaKo |teach
 BaRaKu |teaching
@@ -381,20 +381,20 @@ NeRi   |day
 NeNa   |week
 NeNe   |month
 NeNi   |year
-       |
-       |
-       |
-       |
-       |
-       |
-       |
-       |
-       |
-       |
-       |
-       |
-       |
-       |
-       |
-       |
-       |
+PuTiKa |recording
+PuTiKo |playback/play
+PuTiKu |plays
+PuTiKi |winding
+MiNo   |forward
+PhaRi  |idle
+ShaKi  |cover,lid
+ShiKo  |window
+ShiKu  |windows
+SheKo  |door
+SheKu  |doors
+PiNe   |location,spot
+ShiNa  |VIP
+PeKa   |title
+DeKa   |sun
+DePa   |moon
+BaShiKu|Dynamic
