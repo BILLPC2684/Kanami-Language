@@ -404,3 +404,4 @@ PhaKo  |spice
 PhaKu  |spices
 BaKuRa |sleep
 BaKuRi |awake
+MiKaRa |merry
