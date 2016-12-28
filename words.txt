@@ -4,7 +4,7 @@ DuKu   |dogs
 MiRo   |cat
 MiRu   |cats
 KuDu   |take,took,grab,select,pick
-KuDi   |give,store
+KuDi   |give,store,send
 Mi     |I,me
 MiDi   |we,us
 Di     |they,them,that,their
@@ -16,8 +16,14 @@ MiRi   |hi,hello
 DeKo   |do
 DeKu   |does
 DeKi   |did
-DiKu   |hide,fall,down,shortend,minus(-),close,low,less,single
-DiRu   |show,rise,up,extended,plus(+),open,high,more,multi
+DiShi  |hide,less,close
+DeShi  |fall,shortend
+DoShi  |single
+DiKu   |down,minus(-),low
+DiSha  |show,more,open
+DeSha  |rise,extended
+DoSha  |multi
+DiRu   |up,plus(+),high
 RiDo   |the,an,it,a
 RiDu   |it's,as
 NuLi   |no,false,bad
@@ -33,8 +39,8 @@ kaKu   |houses
 Si     |if
 Ri     |else,other
 SiSo   |end,stop,leave
-SiRu   |male,boy,he
-SiRa   |female,girl,she
+SiRu   |male,boy,he,sir
+SiRa   |female,girl,she,mam
 Shia   |come on
 RaSo   |propose
 RaSu   |proposes
@@ -105,12 +111,12 @@ La     |0
 Li     |1
 Lo     |2
 Lu     |3
-LaLa   |4
-LiLa   |5
-LoLa   |6
-LuLa   |7
-LaLi   |8
-LiLi   |9
+La     |4
+Ti     |5
+To     |6
+Tu     |7
+Ta     |8
+Ti     |9
 LoRi   |network
 LuRi   |internet
 LuKa   |settings,options
@@ -250,17 +256,18 @@ RiBu   |heavens
 BiRi   |name
 BeDo   |way
 BeDu   |ways
-BiDa   |of(for syntax)
-BiDe   |for(for syntax)
-BiDi   |as(for syntax)
-BaDo   |to(for syntax)
-BaRu   |from(for syntax)
-BeRo   |be(for syntax)
+BiDa   |of (for syntax)
+BiDe   |for (for syntax)
+BiDi   |as (for syntax)
+BaDo   |to (for syntax)
+BaRu   |from (for syntax)
+BeRo   |be (for syntax)
 KaBaKo |split
 KaBaKu |splitting
 KaBaKi |splitted
 BaRa   |across 
 BaRi   |over
+BiRe   |under
 BaBi   |the(!)
 GaBa   |warning
 GaDa   |translation
@@ -298,7 +305,7 @@ BoKaRi |boss
 BoKaRo |idea,plan
 BoKaRu |ideas,plans
 BoKaRe |sound
-BoKaRa |video(image)
+BoKaRa |video(image),render
 LoKaBa |mad
 LuBiRa |happy
 LoBaKa |slow
@@ -310,7 +317,7 @@ LoRiKo |hunger
 LoRiKu |hungry
 BoKaRi |lord
 LaKiRa |came
-BoGa   |are(for syntax)
+BoGa   |are (for syntax)
 NeGa   |withheld
 NaRiGo |confuse
 NaRiGu |confuses
@@ -405,3 +412,15 @@ PhaKu  |spices
 BaKuRa |sleep
 BaKuRi |awake
 MiKaRa |merry
+MiShi  |welcome
+MeShe  |loops(times)
+MiSho  |track
+MiShu  |tracks
+ShoKi  |outside
+ShoKe  |inside
+KhiKu  |shop
+ShiKa  |away
+TaKho  |item
+TaKhu  |items
+TuGaRi |stuff
+Tika   |look
