@@ -423,4 +423,6 @@ ShiKa  |away
 TaKho  |item
 TaKhu  |items
 TuGaRi |stuff
-Tika   |look
+TiKa   |look
+KhiRo  |repeat
+KhiRu  |repeating
