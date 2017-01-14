@@ -169,7 +169,7 @@ NuKuLo |fluffle
 kiKo   |cake
 kiKu   |cakes
 Naka   |but
-BoKu   |flower,floran,nature,tree,plant
+BoKu   |flower,floran,nature,tree,plant,grass
 KiMo   |Money,Currency
 KiBo   |coin
 KiBu   |coins
@@ -426,3 +426,13 @@ TuGaRi |stuff
 TiKa   |look
 KhiRo  |repeat
 KhiRu  |repeating
+MaRi   |mom,mommy
+DoRa   |dad,daddy
+       |kilogram
+       |gram
+       |milligram
+       |microgram
+       |stone
+       |sand
+       |dirt
+       
