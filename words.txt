@@ -1,6 +1,6 @@
 words:
-DuKo   |dog
-DuKu   |dogs
+DoKo   |dog
+DoKu   |dogs
 MiRo   |cat
 MiRu   |cats
 KuDu   |take,took,grab,select,pick
