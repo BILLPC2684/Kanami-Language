@@ -440,7 +440,7 @@ GoMe   |stay
 Gari   |are(for syntax)
 Phi    |on,enabled
 Phe    |off,disabled
-       |
-       |
-       |
-       |
+Phika  |power
+Shako  |turn 
+Shino  |shutdown
+Shinu  |restart
