@@ -14,7 +14,7 @@ DuRo   |what
 DuRu   |whats
 MiRi   |hi,hello
 DeKo   |do
-DeKu   |does
+DeKu   |does,doing
 DeKi   |did
 DiShi  |hide,less,close
 DeShi  |fall,shortend
@@ -428,11 +428,19 @@ KhiRo  |repeat
 KhiRu  |repeating
 MaRi   |mom,mommy
 DoRa   |dad,daddy
-       |kilogram
-       |gram
-       |milligram
-       |microgram
-       |stone
-       |sand
-       |dirt
-       
+KiGa   |kilogram
+Ga     |gram
+MiGa   |milligram
+MoGa   |microgram
+BoMi   |stone
+Suka   |sand
+nika   |dirt
+GaKiRo |home
+GoMe   |stay
+Gari   |are(for syntax)
+Phi    |on,enabled
+Phe    |off,disabled
+       |
+       |
+       |
+       |
