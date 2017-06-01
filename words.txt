@@ -444,3 +444,8 @@ Phika  |power
 Shako  |turn 
 Shino  |shutdown
 Shinu  |restart
+PhaGo  |update
+PhaGu  |updating
+BoShiGo|downgrade
+BoShiGu|downgrading
+BaRo   |is (for syntax)
