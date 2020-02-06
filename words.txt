@@ -249,10 +249,9 @@ BeRi   |instead of
 BuRaKi |tar
 BuRaKa |oil
 BuRaKe |gas
-BuRo   |line
-BuRu   |lines
-RiBo   |heaven
-RiBu   |heavens
+BuKo   |line
+BuKu   |lines
+RiBi   |heaven
 BiRi   |name
 BeDo   |way
 BeDu   |ways
@@ -287,12 +286,14 @@ SeBo   |share
 SeBu   |sharing
 BaSe   |box
 KaSi   |some,(a)few
+KeSaRa |Spectator
 KeSiRa |mode
 KeMaRi |survival
 KeMaRe |creative
-KeMaRa |Spectator
-KeMaRo |adventure
-KeMaRu |HARDCORE adventure
+KeMaRo |easy adventure
+KeMaRu |hard adventure
+KeMa   |milk
+ReKo   |pocket
 BuRo   |fool,stupid,idiot
 BuRu   |dummy
 BaKaKo |teach
